@@ -8,3 +8,5 @@ let parcent = (studentScore * 100) / maxScore
 
 // print parcent of 8 score from 10
 console.log(parcent)
+
+//
