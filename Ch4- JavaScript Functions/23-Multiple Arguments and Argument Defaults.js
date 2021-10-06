@@ -14,7 +14,7 @@ let getScoreTest = function (name ='Karim', score=89) {
 }
 
 let getScoreTest2 = function (name ='Karim', score=16) {
-    return 'name is ' + name + ' score is ' + score
+    return `Name : ${name} and his Score is : ${score}`
 }
 
 getScoreTest()
